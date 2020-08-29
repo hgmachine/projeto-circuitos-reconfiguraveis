@@ -14,3 +14,19 @@ Atividade: Projeto lógico combinacional usando VHDL
 - Realize um testbench com 10 entradas distintas
 - ... mesma solicitação anteror 
 
+Tarefas:
+
+1) Implementar o multiplexador do exemplo 2
+
+- Testbench com 10 entradas
+- Usar entradas e saidas do tipo std_logic_vector
+
+2) Implementar o decodificador de binário para 7 segmentos (exemplo 6)
+
+3) Implementar o decodificador de binário para 7 segmentos (exemplo 7)
+
+Tarefa:
+
+Implementar o somador do exemplo 3 para três entradas diferentes que produzam overflow
+e verificar o comportamento dos sinais de carry.
+- usar std_logic_vector.
