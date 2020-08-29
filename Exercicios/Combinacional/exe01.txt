@@ -1,0 +1,16 @@
+Aula #2: Descrição de circuitos combinacionais (26 min):
+
+Atividade: Projeto lógico combinacional usando VHDL
+
+1) Porta AND de três entradas de 1 bit (exemplo 1)
+
+- Realizar um testbench com 10 entradas distintas
+- Mapear pinos I/O: SWITCHES e LED
+- Implementar no kit de desenvolvimento
+- Gerar Reporte de Síntese e Layout do circuito
+
+2) Para a porta AND de duas entradas de 8 bits (exemplo 6)
+
+- Realize um testbench com 10 entradas distintas
+- ... mesma solicitação anteror 
+
