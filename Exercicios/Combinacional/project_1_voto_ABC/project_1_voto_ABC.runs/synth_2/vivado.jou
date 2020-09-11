@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Thu Sep 10 22:54:42 2020
+# Process ID: 6136
+# Current directory: C:/Users/Alunos/Documents/HGM/PCR/projeto-circuitos-reconfiguraveis/Exercicios/Combinacional/project_1_voto_ABC/project_1_voto_ABC.runs/synth_2
+# Command line: vivado.exe -log project_1_voto_ABC.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source project_1_voto_ABC.tcl
+# Log file: C:/Users/Alunos/Documents/HGM/PCR/projeto-circuitos-reconfiguraveis/Exercicios/Combinacional/project_1_voto_ABC/project_1_voto_ABC.runs/synth_2/project_1_voto_ABC.vds
+# Journal file: C:/Users/Alunos/Documents/HGM/PCR/projeto-circuitos-reconfiguraveis/Exercicios/Combinacional/project_1_voto_ABC/project_1_voto_ABC.runs/synth_2\vivado.jou
+#-----------------------------------------------------------
+source project_1_voto_ABC.tcl -notrace
