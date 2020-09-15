@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:36:41 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Sep 15 19:22:15 2020
+# Process ID: 13487
+# Current directory: /home/henrique/Documentos/projeto-circuitos-reconfiguraveis/Exercicios/Combinacional/project_1_voto_ABC/project_1_voto_ABC.runs/impl_2
+# Command line: vivado -log topmodule.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source topmodule.tcl -notrace
+# Log file: /home/henrique/Documentos/projeto-circuitos-reconfiguraveis/Exercicios/Combinacional/project_1_voto_ABC/project_1_voto_ABC.runs/impl_2/topmodule.vdi
+# Journal file: /home/henrique/Documentos/projeto-circuitos-reconfiguraveis/Exercicios/Combinacional/project_1_voto_ABC/project_1_voto_ABC.runs/impl_2/vivado.jou
+#-----------------------------------------------------------
+source topmodule.tcl -notrace

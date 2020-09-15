@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="synth_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1599781707">
+  <File Type="RDS-DCP" Name="project_1_voto_ABC.dcp"/>
   <File Type="PA-TCL" Name="project_1_voto_ABC.tcl"/>
   <File Type="REPORTS-TCL" Name="project_1_voto_ABC_reports.tcl"/>
   <File Type="RDS-RDS" Name="project_1_voto_ABC.vds"/>
   <File Type="RDS-UTIL" Name="project_1_voto_ABC_utilization_synth.rpt"/>
   <File Type="RDS-UTIL-PB" Name="project_1_voto_ABC_utilization_synth.pb"/>
-  <File Type="RDS-DCP" Name="project_1_voto_ABC.dcp"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/new/project_1_voto_ABC.vhd">

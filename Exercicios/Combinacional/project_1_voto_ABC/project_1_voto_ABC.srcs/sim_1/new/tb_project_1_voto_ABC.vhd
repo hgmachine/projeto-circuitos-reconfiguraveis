@@ -26,8 +26,8 @@ begin
          f => s_f
      );
 
-     s_a <= '0', '1' after 20 ns, '0' after 40 ns, '0' after 60 ns, '1' after 80 ns, '0' after 100 ns;
+     s_a <= '0', '1' after 20 ns, '0' after 40 ns, '0' after 60 ns, '1' after 80 ns, '1' after 100 ns;
      s_b <= '0', '1' after 20 ns, '1' after 40 ns, '1' after 60 ns, '1' after 80 ns, '0' after 100 ns;
      s_c <= '0', '0' after 20 ns, '0' after 40 ns, '1' after 60 ns, '1' after 80 ns, '1' after 100 ns;
-       
+        
 end Behavioral;

@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/henrique/Documentos/projeto-circuitos-reconfiguraveis/Exercicios/Combinacional/project_1_voto_ABC/project_1_voto_ABC.srcs/sources_1/new/project_1_voto_ABC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'project_1_voto_ABC'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/henrique/Documentos/projeto-circuitos-reconfiguraveis/Exercicios/Combinacional/project_1_voto_ABC/project_1_voto_ABC.srcs/sim_1/new/tb_project_1_voto_ABC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_project_1_voto_ABC'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/henrique/Documentos/projeto-circuitos-reconfiguraveis/Exercicios/Combinacional/project_1_voto_ABC/project_1_voto_ABC.srcs/sim_1/new/tb_project_1_voto_ABC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_project_1_voto_ABC'
