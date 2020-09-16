@@ -1,0 +1,4 @@
+Running: xsim.dir/trem_tb_behav/xsimk -simmode gui -wdb trem_tb_behav.wdb -simrunnum 0 -socket 52883
+Design successfully loaded
+Design Loading Memory Usage: 43556 KB (Peak: 43556 KB)
+Design Loading CPU Usage: 30 ms

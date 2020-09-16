@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../trem.srcs/sources_1/new/barreira.vhd" \
+"../../../../trem.srcs/sources_1/new/sinaleira_0.vhd" \
+"../../../../trem.srcs/sources_1/new/sinaleira_1.vhd" \
+"../../../../trem.srcs/sources_1/new/trem.vhd" \
+"../../../../trem.srcs/sim_1/new/trem_tb.vhd" \
+
+# Do not sort compile order
+nosort
