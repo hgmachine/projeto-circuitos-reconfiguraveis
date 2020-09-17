@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<Runs Version="1" Minor="0">
-	<Run Id="synth_1" LaunchDir="/home/henrique/Documentos/projeto-circuitos-reconfiguraveis/Exercicios/henrique_gmoura_160058651/Exercicio_1/trem/trem.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
-	<Parameters>
-		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
-	</Parameters>
-</Runs>
-
